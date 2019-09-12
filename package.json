@@ -1,0 +1,22 @@
+{
+    "name": "sensitiveWord",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "bin": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zhifuliu/sensitiveWord.git"
+    },
+    "author": {
+        "name": "zhifu",
+        "email": "491836641@qq.com"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/zhifuliu/sensitiveWord/issues"
+    },
+    "homepage": "https://github.com/zhifuliu/sensitiveWord#readme",
+    "keywords": ["sensitive", "word sensitive", "sensitive word", "敏感词", "敏感词过滤"]
+}
